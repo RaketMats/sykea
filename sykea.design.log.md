@@ -36,3 +36,7 @@ So far so good. Grejen är att det är ett antagande att ngt händer i verkliga 
 Beskriv alltså detta. Men hur. Helst, som ett praktiskt verktyg att använda.  
 Antagandet är att det är ett problem. Ansatsen att det går att beskriva enligt ovan. Hur kan vi testa att vi är rätt ute?  
 
+## Ansats: Abstract Base Classes - Bridging the gap to Software Engineering
+Detta handlar om att redan nu, från början visa hur man designar digitala produkter utifrån pattern 'enterprise objects' aka 'the ABCDesEnt'-pattern.
+Und zu weiter...
+
