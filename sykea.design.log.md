@@ -5,9 +5,12 @@ Do own image illustrating. Search for e.g. 'tree with branches infographic' for 
 ## Repo name
 Name is not optimal. Find something else? https://www.theoi.com/Flora1.html
 
+## Ide: Trädet som symbol o metafor
+Trädbilden som inleder readme'n är inte så dum. Vi kan anvnädna som metafor. För att illustrera data, information, metadata och metainformation osv. Att information kan lagras i olika format, dokument, websida, bild o det kan beskirvas som en informationsmängd så att det börjar gå att 'manahtera', 'förvaltning' osv. o hantera o skicka, via informationsbärare o lagringsytor. 
+
 ## Insikt: Information o data, termer
-En insikt är att det är en rad termer som ofta inte är förstådda, delade, otydliga. Så, beskriv vad data är. Data är data. Pi äe typ siffror.  Men tx befolkning vid en given tid, meningsfull färst tx i relation t föregående år. Eller telefonsamtal viss längd viss tid. Osv. Det blir information när det går att skicka som faktura typ.
-Beskriv alltså detta. kankse som infographic, men helst, som ett praktiskt verktyg att använda.  
+En insikt är att det är en rad termer som ofta inte är förstådda, delade, otydliga. Så, beskriv vad data är. Pi är siffror som i sig kan användas för olika syften, men egentligen bara siffror, o inte ens data. Data är någonslags mängd, siffor, bokstäver, tecken, t.ex befolkning vid en given tid. Data blir meningsfull först i ett sammanhang, i något syfte, t.ex hur befolkningsdata ändrar sig över tid. En telefonioperatör kan lagra ett telefonsamtal, med viss längd, vid en viss tid. och som blir information när det går att skicka som faktura. En annan aspekt är att data måste vara i ett format som gör den meningsfull när den anävnds, t.ex lagras text i UTF-8 och bilder i jpg.  
+Detta tror vi är relevant att beskriva. Vi kan prova dels format för att beskriva och att det är förståeligt för olika läsare. Det kan bli ett verktyg. Detta får vi prova. 
 Antagandet är att det är ett problem. Ansatsen att det går att beskriva enligt ovan. Hur kan vi testa att vi är rätt ute?  
 
 ## Insikt: Termer o begrepp
