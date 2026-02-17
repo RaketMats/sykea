@@ -11,7 +11,7 @@ This is not a place that describes how information management is done, primarily
 Abstract base classes. Från mkt enkla 'informationshantering' eller 'ärende'. 
 Manualen. 
 Vad är informationsförvaltning. Ngn vill ngt o har eller får information(use case) o ngn gör ngt (feature) o (arch form) o information uppstår, eller förädlas, kan ofta delas med user.
-Styrning. Detta är ju ett lager till ovanpå det vi skrivit ovan. Det är det det blir informatoin managemenet  
+Styrning. Detta är ju ett lager till ovanpå det vi skrivit ovan. Det är det det blir informatoin management  
 T.ex semesterbilder. Man har en egen styrning att se till att spara. Man ser till att lägga på metadata om vem som var med osv. utöver timestamp som redan finns. 
 
 # Way of working
