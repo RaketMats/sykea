@@ -35,3 +35,10 @@ Det viktiga är att få på plats en verkstad, en designsituation för att ta fr
 
 # Så
 Vi tror inte det är att den bästa vägen är en ide, eller en lösning/produkt eller ett mål utan istället att skapa en verkstad för gemensamt lärande genom praktiskt experiment. 
+
+# Pigaller
+## First draft
+I Det finns soo many different attempts praktiskt kring dokumenthanteringssystem. det finns så mkt skrivet, inte minst sammanfattat på www.informationsforvaltning.com. Ändå är det så svårt att få till.  
+Det kan bero på att det är ett komplext problem. Det måste isåfall utforskas. Kan det vara så att användande skall vara där man börjar, eftersom mkt av det som gjorts är på olika sätt styurande. Kan man istället utgå från observationer, insights, habituations. T.ex att egna, personliga kataloger med arbetsmaterial, olika projekt där man är med osv. snabbt blir svåröverskådliga, man tappar bort sig, glömmer var man lagt saker eller var man var.
+II Skulle ett tänkande enligt 'Design Things' kunna vara ett experiment att på något sätt prova för erfarenheter om det finns ideer där som fungerar. Att man inte börjar med ordning o reda, versionshantering osv. utan tvärtom, utifrån vad som är naturligt, hur man behövver komma åt, dela med sig själv o nadra via en molntjänst, hitta lagringsytor som är enkla att redigera i, utifrån den form man behöver, text eller bilder/modeller. 
+III Hur skulle man kunna börja prova detta? Det viktiga är att det blir praktiskt, inte yet another specification. What would git do, är en annan approachering.
