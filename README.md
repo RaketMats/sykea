@@ -32,3 +32,6 @@ Grunden är alltså enkel. Men snabbt behövs ngt annat, ngt som kan hantera kom
 Same m att förstå när information uppstår, i en aktivitet. Det är arkitektur o tjäntsedesign bra på att beskriva. Så vi går dit o hämtar kunskapen isf att beskriva här.
 Information, aktiviteter är svåra att beskriva men här hämtar vi metodiker ifrån arkitektur och tjänstedesign eller ifrån andra kompetenser, som storytelling. Hur mkt vi kommer att beskriva här är dock oklart, bättre att referera till de som beskirver på ett bra sätt o då muda/waste att bara repetera här.  
 Det viktiga är att få på plats en verkstad, en designsituation för att ta fram sätt som fungerar praktiskt för läsare. 
+
+# Så
+Vi tror inte det är att den bästa vägen är en ide, eller en lösning/produkt eller ett mål utan istället att skapa en verkstad för gemensamt lärande genom praktiskt experiment. 
