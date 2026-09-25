@@ -42,3 +42,21 @@ I Det finns soo many different attempts praktiskt kring dokumenthanteringssystem
 Det kan bero på att det är ett komplext problem. Det måste isåfall utforskas. Kan det vara så att användande skall vara där man börjar, eftersom mkt av det som gjorts är på olika sätt styurande. Kan man istället utgå från observationer, insights, habituations. T.ex att egna, personliga kataloger med arbetsmaterial, olika projekt där man är med osv. snabbt blir svåröverskådliga, man tappar bort sig, glömmer var man lagt saker eller var man var.
 II Skulle ett tänkande enligt 'Design Things' kunna vara ett experiment att på något sätt prova för erfarenheter om det finns ideer där som fungerar. Att man inte börjar med ordning o reda, versionshantering osv. utan tvärtom, utifrån vad som är naturligt, hur man behövver komma åt, dela med sig själv o nadra via en molntjänst, hitta lagringsytor som är enkla att redigera i, utifrån den form man behöver, text eller bilder/modeller. 
 III Hur skulle man kunna börja prova detta? Det viktiga är att det blir praktiskt, inte yet another specification. What would git do, är en annan approachering.
+
+## Om information
+I Information är svår att greppa och innan vi gör det behöver vi förmodligen först en bättre förståelse för. 
+Det finns data, sedan information, kunskap, det är en indelning. Sedan finns aspekter om, en slags metainformation, varför, av vem, när har informationen kommit till. Sedan format, vad är det för något, i vilken form ser vi den nu eller är den tänkt. Men det ifnns även andra lager, som 'meningsbyggande', att den är till för något och vad är detta. Sedna även 'meningsskapande' att den alltså är på ett sätt rörlig, flyktig, den kan ha olika egenskaper för olika sammanhang. Ett annat sätt att tänka är i 'outcome'(vad en verksamhet vill) och 'impact'(vad en användare vill). Den kan sedan ha state, att den är utkast, under arbete, granskning eller godkänd t.ex. Det här gäller alla typer, data, information, mening men är förmodligen enklare att greppa för ren data, t.ex något har samlats in, vid en tidpunkt, för ett syfte, än en komplicerad text där det inte finns en enkel tolkning utan det beror på vem som läser, när, t.ex litteratur eller musik. Det kan också vara normativ eller deskriptiv, information och ibland förväxlas detta, någon säger något som andra tar som en uppmaning eller regel.
+
+II Om vi dels ser metainformation som sätt att klassificera, underlätta tt hantera och förstå information så kan förmodligen även detta med att leta upp, hitta eller för den som skapar informationen, enklare veta var den skall läggas, hur andra skall hitta osv. 
+En ansats är att systemutveckling, objektorientering, arkitektur och enterprise design har något att bidra med här eftersom dessa alla hela tiden hanterar information och är vana vid komplexa samband och komplexa nivåer av betydelse. Ett antagande är också att informationsförvaltning av mera organiserande, styrande typ är sämre på detta och mer rör sig i det kompnlicerade planet, kring att kategorisera, tidsstämpla, ordna, sätta enklare etiketter på. Ett antagande är att detta är en orsak till att informationsförvlatning är svår att fås att fungera på ett bra sätt. 
+
+III <optics> Man ser direkt att II inte validerar I. Det ifnns inget direkt färdigt förslag att varken analysera eller build/experience i II och I är spretigt, ej heltäckande, o-formulerat, o-förstått.
+X
+L Det är ändå en början
+
+## Om angränsande sätt kring information från litteratur, drama
+I En insikt är att om man vänder på det så hanterar litteratur och drama egentligen information, i olika nivåer av betydelsebärande, betydelseskapande och behöver hantera sätt att få den begriplig för en publik, t.ex ett svårt eller mångbottnat stycke dramatik som på olika sätt behöver gestaltas för att en publik skall kunna ta det till sig på ett meningsfullt sätt. Ett antagande är då att även när det gäller 'verksamhetsinformation', eller professionell informatoin s.as. så kanske detta kan vara ett sätt att både hantera, för de som skapar och för de som använder informationen.
+II Man skulle kunna hämta inspiration från dramatiken, scenkonsten, hur komplicerade begrepp eller meningar i en text(information) görs påtaglig och begriplig.
+III tbd
+X, L tbd
+
